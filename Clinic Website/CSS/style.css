@@ -1,0 +1,57 @@
+/* styles.css */
+
+/* Hero Section */
+.hero {
+    background-color: grey;
+    
+}
+
+.hero h1 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+}
+
+.hero p {
+    font-size: 1.25rem;
+}
+
+/* Footer */
+footer {
+    background-color: #333;
+}
+
+footer p {
+    margin: 0;
+}
+.ttt1 img{
+    width: 320px;
+}
+.ttt1 p{
+    font-weight: bold;
+
+}
+#services {
+    position: relative;
+  }
+  
+  #services .bb5{
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    filter: blur(10px);
+    z-index: -1;
+  }
+  #about
+  {
+    background-color:antiquewhite;
+  }
+  .navbar-nav .nav-item:hover {
+    background-color: rgba(180, 190, 203, 0.4);
+  }
+  

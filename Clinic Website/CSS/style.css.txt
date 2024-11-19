@@ -1,0 +1,26 @@
+/* styles.css */
+
+/* Hero Section */
+.hero {
+    background-image: url('https://via.placeholder.com/1500x500'); /* Replace with your own image */
+    background-size: cover;
+    background-position: center;
+}
+
+.hero h1 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+}
+
+.hero p {
+    font-size: 1.25rem;
+}
+
+/* Footer */
+footer {
+    background-color: #333;
+}
+
+footer p {
+    margin: 0;
+}
